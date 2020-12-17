@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# CV
 
-You can use the [editor on GitHub](https://github.com/jnieto31/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## DATOS PERSONALES
 
-### Markdown
+### **Nombre y apellidos:** Juan Jesús Nieto Hedrera 
+![Juanje](https://images.gr-assets.com/authors/1445143531p5/13681397.jpg)																																				
+#### **Residencia:** Jerez de la Frontera, Cádiz.
+#### **Fecha de nacimiento:** 31/07/2002.
+#### **Email de contacto:** realbetis@gmail.com               
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CARRERA ACADÉMICA
+#### 2012–2020: Matriculado en secundaria y Bachillerato de ciencias tecnológicas en el I.E.S. Almunia.
+#### 2020-2022: Matriculado en técnico superior de desarrollo de aplicaciones web.
 
-```markdown
-Syntax highlighted code block
+## EXPERIENCIA LABORAL
+#### Sin experiencia laboral hasta el momento.
 
-# Header 1
-## Header 2
-### Header 3
+## HABILIDADES. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnieto31/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Idioma: Español nativo, Inglés (C1), Italiano (B2)
+#### Cursos de HTML, GitHub y Java.
